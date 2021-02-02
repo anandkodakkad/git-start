@@ -1,3 +1,3 @@
 # Demo
 
-## Start with Git
+## Start with Git.
